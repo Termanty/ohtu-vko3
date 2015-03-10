@@ -1,0 +1,2 @@
+-SNAPSHOT- versio numeron perässä tarkoittaa että pluginin tämä
+versio on kehityksen alla ja aina ladataan viimeisin saatavilla oleva versio.
