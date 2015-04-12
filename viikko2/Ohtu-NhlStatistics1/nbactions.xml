@@ -12,11 +12,4 @@
                 <exec.classpathScope>runtime</exec.classpathScope>
             </properties>
         </action>
-        <action>
-            <actionName>CUSTOM-cobertura</actionName>
-            <displayName>cobertura</displayName>
-            <goals>
-                <goal>cobertura:cobertura</goal>
-            </goals>
-        </action>
     </actions>
